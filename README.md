@@ -15,7 +15,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/your-repo/RAG_Pipeline.git
+    git clone https://github.com/devzohaib/RAG_Pipeline.git
     cd RAG_Pipeline
     ```
 
