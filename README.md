@@ -18,3 +18,18 @@ Before you begin, ensure you have the following installed:
     cd RAG_Pipeline
     ```
 
+2. **Install Dependencies**
+    ```bash
+    pip install -r requirements.txt
+    ```
+## Notebooks Overview
+
+### 1. Data Preparation
+
+**Notebook:** `01_data_preparation.ipynb`
+
+- **Objective:** Prepare and preprocess the dataset for the RAG pipeline.
+- **Steps:**
+  1. Load the dataset.
+  2. Clean and preprocess the text data.
+  3. Save the processed data for further use.
