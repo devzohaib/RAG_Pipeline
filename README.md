@@ -26,10 +26,20 @@ Before you begin, ensure you have the following installed:
 
 ### 1. Data Preparation
 
-**Notebook:** `01_data_preparation.ipynb`
+**Notebook:** `1-Data_Collection.ipynb`
 
 - **Objective:** Prepare and preprocess the dataset for the RAG pipeline.
 - **Steps:**
   1. Load the dataset.
   2. Clean and preprocess the text data.
   3. Save the processed data for further use.
+
+ ### 1. Data Embeddings & Storage
+
+**Notebook:** `2-Data_Embedding_and_Storage.ipynb`
+
+- **Objective:** Creating Embedding for process dataset and Store Embedding into VectorStore
+- **Steps:**
+  1. Load the Batch of process data.
+  2. Creating the Embedding of data using `test-embedding-3-small` OpenAI embedding model .
+  3. Adding Data to the VectorStore.
