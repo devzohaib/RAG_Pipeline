@@ -35,6 +35,7 @@ Before you begin, ensure you have the following installed:
   3. Save the processed data for further use.
 
  ### 2. Data Embeddings & Storage
+<img src="https://github.com/devzohaib/RAG_Pipeline/blob/master/media/embedding.PNG" alt="Example Image" width="500">
 
 **Notebook:** `2-Data_Embedding_and_Storage.ipynb`
 
