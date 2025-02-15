@@ -34,7 +34,7 @@ Before you begin, ensure you have the following installed:
   2. Clean and preprocess the text data.
   3. Save the processed data for further use.
 
- ### 1. Data Embeddings & Storage
+ ### 2. Data Embeddings & Storage
 
 **Notebook:** `2-Data_Embedding_and_Storage.ipynb`
 
