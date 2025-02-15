@@ -1,7 +1,7 @@
 # RAG_Pipeline
 This repository provides a step-by-step walkthrough of the RAG (Retrieval-Augmented Generation) pipeline codebase
  The pipeline is implemented using a series of Jupyter notebooks. Follow the steps below to understand and run the pipeline.
-
+ <img src="https://github.com/devzohaib/RAG_Pipeline/blob/master/media/RAG.PNG" alt="Example" width="800">
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
